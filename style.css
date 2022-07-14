@@ -1,0 +1,39 @@
+body
+{
+    background-color: lightpink;
+    font-family: 'Dancing Script', cursive;
+    font-family: 'Pacifico', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Special Elite', cursive;
+}
+
+h3
+{
+    background-color: black;
+    color: white;
+    margin: 5px;
+    padding: 5px;
+}
+
+.div_1
+{
+    background-color: white;
+    margin: 20px;
+    padding: 50px;
+}
+
+.div_2 
+{
+    background-color: skyblue;
+}
+
+p
+{
+    margin: 10px;
+    padding: 10px;
+    font-size: 40px;
+    color: white;
+}
+
+
+
